@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Chess<br>👨‍💻 All of my projects are available at https://manichandra3.github.io/CV-updated-/<br>💬 Ask me about Java, OOP, reactJS, NodeJS, and Python<br>📫 How to reach me manichandra371@gmail.com<br>⚡ Fun fact I am a nerd
-
+🔭 I’m currently working on Chess<br>👨‍💻 All of my projects are available at https://manichandra3.github.io/CV-updated-/<br>💬 Ask me about Java, OOP, reactJS, NodeJS, and Python<br>📫 How to reach me manichandra371@gmail.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manichandraganapathri) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manichandra-ganapathri) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/manichandra_17) 
