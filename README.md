@@ -2,7 +2,10 @@
 🔭 I’m currently working on Chess<br>👨‍💻 All of my projects are available at https://manichandra3.github.io/CV-updated-/<br>💬 Ask me about Java, OOP, reactJS, NodeJS, and Python<br>📫 How to reach me manichandra371@gmail.com
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=manichandra3&theme=gotham&hide_border=false)<br/>![](https://github-readme-stats.vercel.app/api/top-langs/?username=manichandra3&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=manichandra3&theme=gotham&hide_border=false)
+<br/>![](https://github-readme-stats.vercel.app/api/top-langs/?username=manichandra3&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=manichandra3&count_private=true&show_icons=true&theme=radical"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manichandra3&theme=radical"/>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=manichandra3&limit=5&theme=dark&combine_all_yearly_contributions=true)
