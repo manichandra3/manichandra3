@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Chess<br>👨‍💻 All of my projects are available at https://manichandra3.github.io/CV-updated-/<br>💬 Ask me about Java, OOP, reactJS, NodeJS, and Python<br>📫 How to reach me manichandra371@gmail.com
+🔭 I’m currently working on an "AI Project Autopilot” that eliminates the need for manual standups, sprint tracking, and status writing.<br>👨‍💻 All of my projects are available at https://manichandra3.github.io/CV-updated-/<br>💬 Ask me about Python, OOP, ML and RAG<br>📫 How to reach me manichandra371@gmail.com
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=manichandra3&theme=gotham&hide_border=false)
