@@ -1,18 +1,3 @@
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1f36,50:1f6feb,100:19c37d&height=200&section=header&text=Hey,%20I'm%20Mani%20%F0%9F%91%8B&fontColor=ffffff&fontSize=45&fontAlignY=35&desc=Builder%20%7C%20Tinkerer%20%7C%20Wikipedia%20Rabbit%20Hole%20Enthusiast&descColor=ffffffcc&descAlignY=55&descSize=18" />
-</div>
-
-<div align="center">
-
-```
-         while alive:
-             drink(tea)
-             build(cool_stuff)
-             automate(boring_stuff)
-             fall_into(wikipedia_rabbit_hole)
-```
-
-</div>
 
 <br/>
 
